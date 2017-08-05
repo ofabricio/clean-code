@@ -10,3 +10,4 @@ Here's a collection of the best tips and references about writing clean and effe
 ## Videos
 
 - [Effective and Clean Java Code, by Edson Yanaga](https://www.youtube.com/watch?v=03Mke-WMahQ)
+- [The Art of Clean Code, by Victor Rentea](https://www.youtube.com/watch?v=AeWbJ5LIFNg)
