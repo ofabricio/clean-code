@@ -19,3 +19,4 @@ Here's a collection of the best tips and references about writing clean and effe
 
 - [Clean Architecture with Spring, by Tom Hombergs](https://www.youtube.com/watch?v=cPH5AiqLQTo)
 - [Hexagonal Architecture in practice, by Jakub Nabrdalik](https://www.youtube.com/watch?v=sOaS83Ir8Ck)
+- [Implementing Clean Architecture, by Lieven Doclo](https://www.youtube.com/watch?v=O6tdJO4aB7c)
